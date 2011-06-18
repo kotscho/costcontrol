@@ -1,0 +1,15 @@
+.PrevPg
+{
+  margin-right: 10px;
+}
+
+.NextPg
+{
+  margin-left: 10px;
+}
+
+.DisabledPgLk
+{
+  width: 100px;
+  display: inline;
+}
