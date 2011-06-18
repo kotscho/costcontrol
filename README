@@ -1,0 +1,8 @@
+Online Cashbook based on cakephp MVC framework
+
+Author: Konstantinos Doskas
+MIT License (http://www.opensurce.org/licenses/mit-licenses.php)
+
+Online cashbook is a simple CRUD application , which is aiming to help people/ households to stick to their budgets,
+by providing a granular data entry facility and on-the-fly report creation using googles chart API.
+Feel free to contribute.
