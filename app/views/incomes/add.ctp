@@ -5,7 +5,7 @@
 <div class="player-inp"><!-- i'm using matchstats css, it serves well for this pupose-->
 <?php
  echo $this->Form->create('Income', array('action' => 'add', 'type' => 'file', 'inputDefaults' => array('error' => array('class' => 'custom-error-message'))));
- echo $this->Form->input('salary', array('label' => 'ΟΤΕ','between'=> '<br />'));
+ echo $this->Form->input('salary', array('label' => 'Βασικός Μισθός','between'=> '<br />'));
  echo $this->Form->input('tax_refunds',array('label' => 'Επιστροφή Φόρου','between'=> '<br />'));
  echo $this->Form->input('pension',array('label' => 'Συντάξης','between'=> '<br />'));
 
